@@ -48,11 +48,9 @@ Through **advanced visualization tools** — *Shiny R*, *Tableau*, and *Power BI
 
 ## 📂 Repository Structure  
 📦 Airline-Passenger-Satisfaction  
-┣ 📜 `shiny_app.R` → Interactive R Shiny web application.  
-┣ 📊 `tableau_dashboard.twbx` → Tableau dashboard visualizations.  
-┣ 📈 `powerbi_dashboard.pbix` → Power BI report with KPIs and trends.  
-┣ 📄 `airline_satisfaction_analysis.ipynb` → Supporting analysis and preprocessing.  
-┣ 🖼 `/images` → Visualization screenshots and dashboard previews.  
+┣ 📜 `Tab1.R, Tab2.R, Tab3.R` → Interactive R Shiny web application.  
+┣ 📊 `FINAL PROJECT ppt.pdf` → Final Report with Visualisations.  
+┣ 📈 `Airline Passenger Satisfaction.csv` → dataset (modified).
 ┗ 📄 `README.md` → Project overview and documentation.  
 
 ---
